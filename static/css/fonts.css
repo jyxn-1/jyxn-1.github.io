@@ -1,0 +1,47 @@
+
+
+@font-face {
+font-family: 'Montserrat-Bold';
+src: url('../font/Montserrat-Bold.eot');
+src: url('../font/Montserrat-Bold.eot#iefix') format('embedded-opentype'),
+        url('../font/Montserrat-Bold.woff2') format('woff2'),
+        url('../font/Montserrat-Bold.woff') format('woff'),
+        url('../font/Montserrat-Bold.ttf') format('truetype'),
+        url('https://ethernal-dark.ansarians.com/assets/fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg'),
+        url('../font/Montserrat-Bold.otf') format('otf');
+}
+  
+@font-face {
+font-family: 'Poppins-Bold';
+src: url('../font/Poppins-Bold.eot');
+src: url('../font/Poppins-Bold.eot#iefix') format('embedded-opentype'),
+        url('../font/Poppins-Bold.woff2') format('woff2'),
+        url('../font/Poppins-Bold.woff') format('woff'),
+        url('../font/Poppins-Bold.ttf') format('truetype'),
+        url('https://ethernal-dark.ansarians.com/assets/fonts/Poppins-Bold.svg#Poppins-Bold') format('svg'),
+        url('../font/Poppins-Bold.otf') format('otf');
+}
+  
+@font-face {
+font-family: 'Poppins-Medium';
+src: url('../font/Poppins-Medium.eot');
+src: url('../font/Poppins-Medium.eot#iefix') format('embedded-opentype'),
+        url('../font/Poppins-Medium.woff2') format('woff2'),
+        url('../font/Poppins-Medium.woff') format('woff'),
+        url('../font/Poppins-Medium.ttf') format('truetype'),
+        url('https://ethernal-dark.ansarians.com/assets/fonts/Poppins-Medium.svg#Poppins-Medium') format('svg'),
+        url('../font/Poppins-Medium.otf') format('otf');
+}
+
+@font-face {
+font-family: 'Poppins-Regular';
+src: url('../font/Poppins-Regular.eot');
+src: url('../font/Poppins-Regular.eot#iefix') format('embedded-opentype'),
+        url('../font/Poppins-Regular.otf') format('otf'),
+        url('https://ethernal-dark.ansarians.com/assets/fonts/Poppins-Regular.svg#Poppins-Regular') format('svg'),
+        url('../font/Poppins-Regular.ttf') format('truetype'),
+        url('../font/Poppins-Regular.woff') format('woff'),
+        url('../font/Poppins-Regular.woff2') format('woff2');
+}
+  
+  
